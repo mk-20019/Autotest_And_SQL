@@ -1,3 +1,4 @@
+# Тогалаков Михаил, 39-я когорта: Финальный проект, инженер по тестированию плюс
 # апи скутера
 scooter_URL = "https://5a69b3e4-0cf8-4171-ac9c-1d89cd70b648.serverhub.praktikum-services.ru/api/v1"
 
